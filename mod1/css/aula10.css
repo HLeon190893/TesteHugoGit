@@ -1,0 +1,28 @@
+body{
+    font: 14px;
+}
+
+.container{
+    text-align: center;
+}
+
+.ex1, .ex2{
+    width: 460px;
+    padding: 20px;
+    background: #1e90ff;
+    margin:auto;
+    margin-bottom: 5px;
+    color:#fff;
+}
+
+p, input, button{
+    width: 480px;
+    padding: 5px;
+    background: #000;
+    margin: auto;
+    text-align: center;
+    color:#fff;
+    border: 5px solid #ccc;
+    margin-top:10px;
+
+}
